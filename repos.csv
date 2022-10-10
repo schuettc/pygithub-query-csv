@@ -2,7 +2,7 @@ Repo Name,Repo Link,Repo Pushed At,Forks,StarGazers,Open Issues,Security Alerts,
 cdk-create-ami,https://github.com/schuettc/cdk-create-ami,2022-09-10 00:21:37,3,1,0,True,0
 cdk-lex-zip-import,https://github.com/schuettc/cdk-lex-zip-import,2022-07-23 00:23:47,1,0,1,True,0
 cdk-lex-import,https://github.com/schuettc/cdk-lex-import,2022-10-10 00:30:20,0,0,1,True,1
-cdk-ec2-example,https://github.com/schuettc/cdk-ec2-example,2022-02-20 02:23:52,1,0,0,True,0
 full-stack-cdk-example,https://github.com/schuettc/full-stack-cdk-example,2022-10-10 00:33:50,0,1,1,True,1
+cdk-ec2-example,https://github.com/schuettc/cdk-ec2-example,2022-02-20 02:23:52,1,0,0,True,0
 cdk-custom-resource-construct-demo,https://github.com/schuettc/cdk-custom-resource-construct-demo,2022-04-03 01:08:07,0,0,0,True,0
 cdk-custom-resource-construct-example,https://github.com/schuettc/cdk-custom-resource-construct-example,2022-04-03 01:12:50,0,0,0,True,0
