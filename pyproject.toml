@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pygithub-query-csv"
+version = "0.1.0"
+description = ""
+authors = ["Court Schuett <schuettc@amazon.com>"]
+readme = "README.md"
+packages = [{include = "pygithub_query_csv"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+PyGithub = "^1.55"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
